@@ -8,3 +8,4 @@ public class ScoreMarks {
         System.out.println(res);
     }
 }
+
