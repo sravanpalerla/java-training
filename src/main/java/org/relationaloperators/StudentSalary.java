@@ -6,6 +6,6 @@ public class StudentSalary {
         int sal=25000;
         boolean b=student>=25000;
         System.out.println(b);
-        
+
     }
 }
