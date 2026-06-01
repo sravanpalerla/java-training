@@ -12,6 +12,8 @@ public class StudentScoreMarks {
         m=m/5;
         //diveded by 7//
         m=m%7;
-        System.out.println(m);
+        System.out.print(m);
+
+
     }
 }
