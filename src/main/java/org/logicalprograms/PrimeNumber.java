@@ -2,7 +2,7 @@ package org.logicalprograms;
 
 public class PrimeNumber{
         public static void main(String[] args) {
-            int n = 50;
+            int n =7;
             int count = 0;
 
             for (int i = 1; i <= n; i++) {
