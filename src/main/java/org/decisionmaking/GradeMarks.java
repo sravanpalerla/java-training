@@ -9,7 +9,8 @@ public class GradeMarks {
         int c=s.nextInt();
         if (a > 90) {
             System.out.println("A grade");
-        } else if (b > 75) {
+        }
+        else if (b > 75) {
             System.out.println("b grade");
         } else if (c > 65) {
             System.out.println("c grade");
