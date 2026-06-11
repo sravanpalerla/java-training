@@ -1,12 +1,9 @@
 package org.decisionmaking;
-import java.util.Scanner;
 public class GradeMarks {
-    public static void main(String[] args) {
-        Scanner s = new Scanner(System.in);
-        System.out.println("enter number");
-        int a = s.nextInt();
-        int b=s.nextInt();
-        int c=s.nextInt();
+    public static void main(String[] args){
+        int a=85;
+        int b=76;
+        int c=45;
         if (a > 90) {
             System.out.println("A grade");
         }
